@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Necrofilus
+- 👋 Hi, I’m @kimberwimber
 - 👀 I’m interested in Gamedev.
 - 🌱 I’m currently learning C# and Unity.
 - 📫 How to reach me: vladas341@gmail.com 
